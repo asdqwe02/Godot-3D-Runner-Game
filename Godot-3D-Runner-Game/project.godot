@@ -21,7 +21,7 @@ common/drop_mouse_on_gui_input_disabled=true
 [mono]
 
 project/assembly_name="Godot- 3d- Runner- Game"
-"project/c#_project_directory editor"=false
+"project/c#_project_directory editor"=true
 
 [physics]
 
